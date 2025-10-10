@@ -316,12 +316,12 @@ change the value of `carpentry` to `incubator`.
 
 {% comment %}
 Post survey survey - CY added this
-{% endcomment %}
+
 
 <h2 id="surveys">Post Workshop Survey</h2>
 
 <a href="https://docs.google.com/forms/d/17oVF5XXS4FsYRCj6UIVXdVNyMiOaZnfGHyqiVWzX2sM/edit">Survey Link</a>
-
+{% endcomment %}
 
 
 
