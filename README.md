@@ -1,5 +1,16 @@
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
 
+# CY notes
+
+* Modify main webpage (including schedule, instructor using top header of file) here:
+`index.md`
+
+* Modify install instructions for software here:
+`_includes/install_instructions/shell.html`
+
+* Copy `index.md` from previous year to new workshop (after cloning website using below instructions)
+
+
 # The Carpentries Workshop Template
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
