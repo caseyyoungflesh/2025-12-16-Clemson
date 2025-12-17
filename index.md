@@ -324,7 +324,7 @@ Post survey survey - CY added this
 
 <h2 id="surveys">Resources</h2>
 
-<a href="/assets/Git_slides.pdf">Git Slides</a>
+<a href="/assets/teaching/Git_slides.pdf">Git Slides</a>
 
 
 {% comment %}
