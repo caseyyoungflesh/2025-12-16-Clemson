@@ -322,7 +322,9 @@ Post survey survey - CY added this
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2mx0xKqWmqW3sB_iqbbDrCWKOz3M5-qt1rdSqVkf0j4biMg/viewform?usp=publish-editor">Survey Link</a>
 
+<h2 id="surveys">Resources</h2>
 
+<a href="/assets/Git_slides.pdf">Git Slides</a>
 
 
 {% comment %}
