@@ -10,6 +10,8 @@
 
 * Copy `index.md` from previous year to new workshop (after cloning website using below instructions)
 
+* Any downloads from this website (i.e., pdfs of slides) are pulled from main lab website (i.e., put in assets/)
+
 
 # The Carpentries Workshop Template
 
