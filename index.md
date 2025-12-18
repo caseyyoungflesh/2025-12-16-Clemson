@@ -330,6 +330,10 @@ Post survey survey - CY added this
 
 <a href="/assets/teaching/Git_slides.pdf">Git Slides</a>
 
+<br>
+
+<a href="/assets/teaching/make_reports_example.Rmd">RMarkdown Example</a>
+
 
 {% comment %}
 SCHEDULE
